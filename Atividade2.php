@@ -4,7 +4,7 @@
 <title>Exercicio 5</title>
 </head>
 <body>
-<h1>Kauai</h1>
+<h1>Murilo</h1>
 <div>
 <?php
  $number = $_GET["param1"];
